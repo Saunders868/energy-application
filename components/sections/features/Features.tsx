@@ -24,8 +24,8 @@ export const Features = () => {
                   from renewable energy sources. Our solutions help to reduce
                   greenhouse gas emission in the transportation sector.
                 </p>
-                <button className="text-primary-950">Read More</button>
               </div>
+              <button className="text-primary-950">Read More</button>
             </div>
             <div className="flex flex-col gap-6 items-start">
               <Ev />

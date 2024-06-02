@@ -2,7 +2,7 @@ import cx from "classnames";
 
 type SubTitle = {
   subTitle: string;
-  classname: string;
+  classname?: string;
 };
 
 export const SubTitle = ({ subTitle, classname }: SubTitle) => {

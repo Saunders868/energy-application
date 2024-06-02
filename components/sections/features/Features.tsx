@@ -1,4 +1,13 @@
-import { Section, Ev, Heading, Container, SubTitle } from "@/components";
+import {
+  Section,
+  Ev,
+  Heading,
+  Container,
+  SubTitle,
+  Solar,
+  Wind,
+  Hydro,
+} from "@/components";
 
 export const Features = () => {
   return (
@@ -28,43 +37,43 @@ export const Features = () => {
               <button className="text-primary-950">Read More</button>
             </div>
             <div className="flex flex-col gap-6 items-start">
-              <Ev />
+              <Solar />
               <div>
                 <Heading as="h3" className="text-title leading-none mb-4">
-                  EV charging
+                  Solar Energy
                 </Heading>
                 <p className="text-neutral-800">
-                  EVs use electricity as a power source, which can be generated
-                  from renewable energy sources. Our solutions help reducing
-                  greenhouse gas emissions in the transportation sector.
+                  Solar panels convert sunlight into electricity. Photovoltaic
+                  (PV) cells on these panels capture the energy from the sun and
+                  convert it into electrical power.
                 </p>
               </div>
               <button className="text-primary-950">Read More</button>
             </div>
             <div className="flex flex-col gap-6 items-start">
-              <Ev />
+              <Wind />
               <div>
                 <Heading as="h3" className="text-title leading-none mb-4">
-                  EV charging
+                  Wind Energy
                 </Heading>
                 <p className="text-neutral-800">
-                  EVs use electricity as a power source, which can be generated
-                  from renewable energy sources. Our solutions help reducing
-                  greenhouse gas emissions in the transportation sector.
+                  Wind turbines harness the kinetic energy of the wind to
+                  generate electricity. Wind farms with multiple turbines are
+                  commonly used to produce large amounts of clean energy.
                 </p>
               </div>
               <button className="text-primary-950">Read More</button>
             </div>
             <div className="flex flex-col gap-6 items-start">
-              <Ev />
+              <Hydro />
               <div>
                 <Heading as="h3" className="text-title leading-none mb-4">
-                  EV charging
+                  Hydropower
                 </Heading>
                 <p className="text-neutral-800">
-                  EVs use electricity as a power source, which can be generated
-                  from renewable energy sources. Our solutions help reducing
-                  greenhouse gas emissions in the transportation sector.
+                  This technology uses the energy from flowing water, such as
+                  rivers and dams, to turn turbines and generate electricity.
+                  It&apos;s one of the oldest forms of renewable energy.
                 </p>
               </div>
               <button className="text-primary-950">Read More</button>

@@ -1,0 +1,34 @@
+{
+  "team": [
+    {
+      "name": "Jenny Wilson",
+      "position": "Senior Sustainability Consultant",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGVhZHNob3QlMjB3b21lbnxlbnwwfHwwfHx8MA%3D%3D",
+      "linkedIn": "https://www.linkedin.com/in/daniel-s-saunders/"
+    },
+    {
+      "name": "Cameron Williamson",
+      "position": "Senior Sustainability Consultant",
+      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1hbiUyMGluJTIwc3VpdHxlbnwwfHwwfHx8MA%3D%3D",
+      "linkedIn": "https://www.linkedin.com/in/daniel-s-saunders/"
+    },
+    {
+      "name": "Courtney Henry",
+      "position": "Energy Analyst",
+      "image": "https://images.unsplash.com/photo-1573496358961-3c82861ab8f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aGVhZHNob3QlMjB3b21lbnxlbnwwfHwwfHx8MA%3D%3D",
+      "linkedIn": "https://www.linkedin.com/in/daniel-s-saunders/"
+    },
+    {
+      "name": "Diane Russel",
+      "position": "Senior Renewable Energy Engineer",
+      "image": "https://images.unsplash.com/photo-1678733527538-845ebdc2f6b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fGhlYWRzaG90JTIwd29tZW58ZW58MHx8MHx8fDA%3D",
+      "linkedIn": "https://www.linkedin.com/in/daniel-s-saunders/"
+    },
+    {
+      "name": "Brookyln Sommers",
+      "position": "Renewable Energy Engineer",
+      "image": "https://images.unsplash.com/photo-1496346236646-50e985b31ea4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cG9ydGZvbGlvJTIwc2hvdCUyMG1lbnxlbnwwfHwwfHx8MA%3D%3D",
+      "linkedIn": "https://www.linkedin.com/in/daniel-s-saunders/"
+    }
+  ]
+}

@@ -9,3 +9,7 @@ export * from "./Renewable";
 export * from "./User";
 export * from "./SaveEnergy";
 export * from "./LinkedIn";
+export * from "./Facebook";
+export * from "./Instagram";
+export * from "./LinkedInFooter";
+export * from "./FooterBg";

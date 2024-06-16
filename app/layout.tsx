@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import localFont from "next/font/local";
 import "./globals.css";
-import { Header } from "@/components";
+import { Footer, Header } from "@/components";
 const myFont = localFont({
   src: "../public/HousttelySignature-GOonZ.ttf",
   variable: "--font-house",
@@ -25,6 +25,7 @@ export default function RootLayout({
       <body data-barba="wrapper" className="">
         <Header />
         {children}
+        <Footer />
       </body>
     </html>
   );

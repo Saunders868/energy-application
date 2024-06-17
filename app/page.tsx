@@ -6,6 +6,7 @@ import {
   Metrics,
   NewsLetter,
   OurExperts,
+  Testimonials,
 } from "@/components";
 
 export default function Home() {
@@ -17,9 +18,12 @@ export default function Home() {
       </div>
       <About />
       <Metrics />
+      <div className="p-2 sm:p-4">
+        <Testimonials />
+      </div>
       <OurExperts />
 
-      <div className="bg-secondary-950 p-4">
+      <div className="p-2 sm:p-4 bg-secondary-950">
         <NewsLetter />
       </div>
 

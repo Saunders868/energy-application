@@ -6,3 +6,4 @@ export * from "./metrics";
 export * from "./our-experts";
 export * from "./news-letter";
 export * from "./blog";
+export * from "./testimonials";

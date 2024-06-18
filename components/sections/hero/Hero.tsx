@@ -1,3 +1,4 @@
+import { Button } from "@/components";
 import Image from "next/image";
 import Link from "next/link";
 import Marquee from "react-fast-marquee";
@@ -21,9 +22,7 @@ const Hero = () => {
               lives.
             </p>
             <Link href={"/solutions"}>
-              <button className="py-4 px-5 bg-primary-300 rounded-full hover:bg-primary-400 duration-300">
-                See our solutions
-              </button>
+              <Button variant="secondary">See our solutions</Button>
             </Link>
           </div>
         </div>

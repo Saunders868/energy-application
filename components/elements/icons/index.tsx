@@ -13,3 +13,6 @@ export * from "./Facebook";
 export * from "./Instagram";
 export * from "./LinkedInFooter";
 export * from "./FooterBg";
+export * from "./ArrowUp";
+export * from "./Location";
+export * from "./Clock";

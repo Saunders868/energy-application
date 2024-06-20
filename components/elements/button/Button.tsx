@@ -12,8 +12,8 @@ export const Button = (props: ButtonProps) => {
 
   return (
     <button
-      className={cx(buttonStyles({ variant, size }), className)}
       {...props}
+      className={cx(buttonStyles({ variant, size }), className)}
     >
       {children}
     </button>
